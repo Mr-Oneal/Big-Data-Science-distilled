@@ -1,0 +1,40 @@
+Gradient descent finished.
+Minimum cost: 0.02161, on iteration #200 for alpha:0.01 and lambda: 0.01
+Gradient descent finished.
+Minimum cost: 0.02536, on iteration #200 for alpha:0.01 and lambda: 0.1
+Gradient descent finished.
+Minimum cost: 0.02119, on iteration #200 for alpha:0.01 and lambda: 0.0
+Gradient descent finished.
+Minimum cost: 0.05814, on iteration #200 for alpha:0.01 and lambda: 1.0
+Gradient descent finished.
+Minimum cost: 0.18451, on iteration #200 for alpha:0.01 and lambda: 10
+Gradient descent finished.
+Minimum cost: 0.01011, on iteration #200 for alpha:0.1 and lambda: 0.01
+Gradient descent finished.
+Minimum cost: 0.01484, on iteration #200 for alpha:0.1 and lambda: 0.1
+Gradient descent finished.
+Minimum cost: 0.00957, on iteration #200 for alpha:0.1 and lambda: 0.0
+Gradient descent finished.
+Minimum cost: 0.05295, on iteration #200 for alpha:0.1 and lambda: 1.0
+Gradient descent finished.
+Minimum cost: 0.18151, on iteration #200 for alpha:0.1 and lambda: 10
+Gradient descent finished.
+Minimum cost: 0.00865, on iteration #200 for alpha:1.0 and lambda: 0.01
+Gradient descent finished.
+Minimum cost: 0.01437, on iteration #200 for alpha:1.0 and lambda: 0.1
+Gradient descent finished.
+Minimum cost: 0.00780, on iteration #200 for alpha:1.0 and lambda: 0.0
+Gradient descent finished.
+Minimum cost: 0.05295, on iteration #101 for alpha:1.0 and lambda: 1.0
+Gradient descent finished.
+Minimum cost: 0.57065, on iteration #1 for alpha:1.0 and lambda: 10
+Gradient descent finished.
+Minimum cost: 58.45420, on iteration #1 for alpha:10 and lambda: 0.01
+Gradient descent finished.
+Minimum cost: 58.90254, on iteration #1 for alpha:10 and lambda: 0.1
+Gradient descent finished.
+Minimum cost: nan, on iteration #141 for alpha:10 and lambda: 0.0
+Gradient descent finished.
+Minimum cost: 63.38598, on iteration #1 for alpha:10 and lambda: 1.0
+Gradient descent finished.
+Minimum cost: 108.22035, on iteration #1 for alpha:10 and lambda: 10
