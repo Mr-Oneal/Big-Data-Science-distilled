@@ -59,7 +59,7 @@ def gradient_descent(X, y, theta, alpha, iterations, do_plot):
         theta_1 = theta_1 - (alpha/m) * sigma #sigma multiplied by (alpha/m) is the step size
 
         # update theta, using the temporary variables
-        theta = np.array([theta_0, theta_1]) # is 0, but why?
+        theta = np.array([theta_0, theta_1])
 
         # append current iteration's cost to cost_vector
         iteration_cost = compute_cost(X, y, theta)

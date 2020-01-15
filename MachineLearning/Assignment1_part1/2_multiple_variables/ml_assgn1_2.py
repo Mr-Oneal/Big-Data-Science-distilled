@@ -13,6 +13,7 @@ if not os.path.exists(figures_folder):
 # This loads our data
 X, y = load_data_ex2()
 
+# print(X)
 # Normalize
 X_normalized, mean_vec, std_vec = normalize_features(X)
 
